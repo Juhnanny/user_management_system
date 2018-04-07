@@ -16,7 +16,6 @@
 删除信息
 ------
 ![删除](https://github.com/Juhnanny/user_management_system/blob/master/user_management_system/demo/%E7%BC%96%E8%BE%91.png '删除')
-
 技术栈
 =====
-```vue.js + vue.router + vue-resource + boostrap```
+```vue.js + vue.router + vue-resource + boostrap, 使用json-server模拟RESTful API，提供后台数据。```
